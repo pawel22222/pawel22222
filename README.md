@@ -11,5 +11,5 @@ I’m currently learning:
  
  📫 How to reach me: pawelsokolowski22222@gmail.com
  
- ⚡ Fun fact😜: check me on chess.com --> https://www.chess.com/member/elpablos22222
+ ⚡ Fun fact😜: meet me on chess.com --> https://www.chess.com/member/elpablos22222
 
