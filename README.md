@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Paweł Sokołowski 👋
+I love front-end development and learn new technologies. I am currently exploring React.js and TypeScript.
 
-<!--
-**pawel22222/pawel22222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning:
+- React
+- JavaScript
+- TypeScript
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 I’m currently working on engineering project
+ 
+ 📫 How to reach me: pawelsokolowski22222@gmail.com
+ 
+ ⚡ Fun fact😜: check me on chess.com --> https://www.chess.com/member/elpablos22222
+
