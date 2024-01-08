@@ -1,16 +1,22 @@
-### Hi there, I'm Paweł Sokołowski 👋
+# Hi there, I'm Paweł Sokołowski 👋
 I love software development and learn new technologies.
 
-My stack:
+## My stack:
 - Python
 - Typescript
 - React
 - Rest Api
 - Websockets
 
-I’m currently learning:
-- rasa - AI, chatbot framework
-- websockets
+## Old React projects
+
+### [Engineering project](https://projekt-inzynierski.netlify.app/) - [check repo](https://github.com/pawel22222/projekt-inzynierski)
+Firebase, React, TS, Redux
+
+### [Todo list](https://psokolowski-react-todolist.netlify.app/) - [check repo](https://github.com/pawel22222/React--TodoList)
+Browser Storage, React, TS, Redux
+
+## Other
 
  🔭 I’m currently working at OPTeam S.A. as software developer
  
