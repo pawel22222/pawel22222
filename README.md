@@ -1,5 +1,12 @@
 ### Hi there, I'm Paweł Sokołowski 👋
-I love front-end development and learn new technologies.
+I love software development and learn new technologies.
+
+My stack:
+- Python
+- Typescript
+- React
+- Rest Api
+- Websockets
 
 I’m currently learning:
 - rasa - AI, chatbot framework
